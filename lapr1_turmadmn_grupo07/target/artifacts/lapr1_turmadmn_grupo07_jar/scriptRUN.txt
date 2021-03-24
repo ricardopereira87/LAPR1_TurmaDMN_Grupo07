@@ -1,0 +1,12 @@
+Caso gaivotas:
+java -jar lapr1_turmadmn_grupo07.jar -t 5 -g 1 -e -v -r gaivotasMarSol.txt gaivotasOut.txt
+
+Caso pombas:
+java -jar lapr1_turmadmn_grupo07.jar -t 5 -g 1 -e -v -r pombosMarSol.txt pombosOut.txt
+
+Modo Nao Interativo(Gaivota):
+java -jar lapr1_turmadmn_grupo07.jar -n gaivotasMarSol.txt
+
+Modo Interativo(Pombos):
+java -jar lapr1_turmadmn_grupo07.jar -n pombosMarSol.txt
+
